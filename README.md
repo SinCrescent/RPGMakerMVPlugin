@@ -1,2 +1,2 @@
 # RPGMakerMVPlugin
-Use to storage my plugin or other resources
+Use to storage my plugin
